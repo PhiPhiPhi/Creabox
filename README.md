@@ -61,3 +61,4 @@ Project Link: [https://github.com/PhiPhiPhi/Creabox](https://github.com/PhiPhiPh
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 
+[product-screenshot]: client/public/screenshot.png
